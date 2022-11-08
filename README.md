@@ -9,6 +9,9 @@
 - [TypeScript parte 1: Evoluindo seu JavaScript](https://github.com/piedroalex/curso-typescript-parte-1)
 - [TypeScript parte 2: Avançando na linguagem](https://github.com/piedroalex/curso-typescript-parte-2)
 - [TypeScript parte 3: Mais técnicas e boas práticas](https://github.com/piedroalex/curso-typescript-parte-3)
+
+ ### [Formação Java e Microsserviços com Spring e RabbitMQ](https://www.alura.com.br/formacao-java-microsservicos)
+- [Microsserviços na prática: implementando com Java e Spring](https://github.com/piedroalex/curso-microsservicos-java-spring)
  
  ### Outros
 - [SOLID com Java: Princípios da programação orientada a objetos](https://github.com/piedroalex/solid)
