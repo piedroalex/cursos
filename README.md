@@ -20,3 +20,6 @@
  - [Flutter: Desenvolva um Cadastro Completo - 2020](https://github.com/piedroalex/flutter_crud)
  - [API RESTful avançada com Spring Boot e Java 8](https://github.com/piedroalex/pontointeligente-api)
  - [Docker: Ferramenta essencial para Desenvolvedores](https://github.com/piedroalex/email-worker-compose)
+
+ ## [Algaworks](https://www.algaworks.com/)
+ - [Fullstack Angular e Spring](https://www.algaworks.com/curso/fullstack-angular-e-spring/)
