@@ -12,6 +12,7 @@
 
  ### [Formação Java e Microsserviços com Spring e RabbitMQ](https://www.alura.com.br/formacao-java-microsservicos)
 - [Microsserviços na prática: implementando com Java e Spring](https://github.com/piedroalex/curso-microsservicos-java-spring)
+- [Microsserviços na prática: mensageria com RabbitMQ](https://github.com/piedroalex/curso-microsservicos-spring-rabbitmq)
  
  ### Outros
 - [SOLID com Java: Princípios da programação orientada a objetos](https://github.com/piedroalex/solid)
