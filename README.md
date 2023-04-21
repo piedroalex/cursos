@@ -23,4 +23,4 @@
  - [Docker: Ferramenta essencial para Desenvolvedores](https://github.com/piedroalex/email-worker-compose)
 
  ## [Algaworks](https://www.algaworks.com/)
- - [Fullstack Angular e Spring](https://www.algaworks.com/curso/fullstack-angular-e-spring/)
+ - [Fullstack Angular e Spring](https://github.com/piedroalex/curso-fullstack-angular-spring)
