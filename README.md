@@ -16,7 +16,8 @@
  
  ### Outros
 - [SOLID com Java: Princípios da programação orientada a objetos](https://github.com/piedroalex/solid)
-- [Java Servlet: programação web Java](https://www.alura.com.br/curso-online-servlets-fundamentos-programacao-web-java)
+- [Java Servlet: programação web Java](https://github.com/piedroalex/gerenciador)
+- [Angular: explorando o framework](https://github.com/piedroalex/bytebank)
  
  ## [Udemy](https://www.udemy.com)
  - [Flutter: Desenvolva um Cadastro Completo - 2020](https://github.com/piedroalex/flutter_crud)
