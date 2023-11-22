@@ -1,5 +1,5 @@
 # CURSOS
- Repositório que organiza todos os projetos desenvolvidos durante os cursos realizados por mim (tirando os milhares que fiz e perdi :sweat:).
+ Repositório que organiza todos os projetos desenvolvidos durante os meus cursos.
  
  ## Links dos repositórios
  
